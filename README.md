@@ -2,7 +2,7 @@
     <h1>Fernando Lorca 🐱‍💻</h1>
 </div>
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div align="center">
     <a href="htts://google.com" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
