@@ -58,5 +58,4 @@ const obj = {
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
         <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </div>
