@@ -18,11 +18,25 @@
 ```js
 const obj = {
   passions: ["music", "web development"],
+  interests: [
+    "HTML",
+    "CSS",
+    "Javascript",
+    ["React", "React router", "Context", "Hooks"],
+    "PostgreSQL",
+    "Node.js",
+  ],
+  skills: [
+    "Strong html and css skills",
+    "Good react knowledge, but still learning",
+    "Starting to study PostgreSQL, filling myself with knowledge of everything that has to do with it.",
+  ],
 };
 ```
 
-## Favorite Song
-
-<div>
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1e1IiUItCGhp8LvU8aZ213?utm_source=generator" width="40%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center">
+    <p>Favorite Song</p>
+    <a href="https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213?si=fb2980299671434b">
+        <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
 </div>
