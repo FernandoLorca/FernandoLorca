@@ -34,17 +34,19 @@ const obj = {
 };
 ```
 
+<br>
 <div align="center">
     <p>Favorite Song</p>
     <a href="https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213?si=fb2980299671434b">
         <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
 </div>
-
+<br>
 <div align="center">
-    <p>Other development interests</p>
+    <p>Other development interests:</p>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
