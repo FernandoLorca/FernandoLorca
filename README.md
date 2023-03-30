@@ -46,19 +46,19 @@ const obj = {
 <div align="center">
     <p>Other development interests:</p>
         <img src="https://img.shields.io/badge/HTML-151516?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/GNUBash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/GNU-A42E2B?style=flat-square&logo=gnu&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-        <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-        <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-151516?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/vscode-151516?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+        <img src="https://img.shields.io/badge/Javascript-151516?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/React-151516?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/ReactRouter-151516?style=flat-square&logo=reactrouter&logoColor=CA4245" />
+        <img src="https://img.shields.io/badge/Vite-151516?style=flat-square&logo=vite&logoColor=646CFF" />
+        <img src="https://img.shields.io/badge/GNUBash-151516?style=flat-square&logo=GNUBash&logoColor=4EAA25" />
+        <img src="https://img.shields.io/badge/Node.js-151516?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/npm-151516?style=flat-square&logo=npm&logoColor=CB3837" />
+        <img src="https://img.shields.io/badge/Linux-151516?style=flat-square&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/GNU-151516?style=flat-square&logo=gnu&logoColor=A42E2B" />
+        <img src="https://img.shields.io/badge/Ubuntu-151516?style=flat-square&logo=ubuntu&logoColor=E95420" />
+        <img src="https://img.shields.io/badge/Codewars-151516?style=flat-square&logo=codewars&logoColor=B1361E" />
+        <img src="https://img.shields.io/badge/Discord-151516?style=flat-square&logo=discord&logoColor=5865F2" />
+        <img src="https://img.shields.io/badge/AdobeXD-151516?style=flat-square&logo=adobexd&logoColor=FF61F6" />
 </div>
