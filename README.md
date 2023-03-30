@@ -55,6 +55,7 @@ const obj = {
         <img src="https://img.shields.io/badge/GNUBash-151516?style=flat-square&logo=GNUBash&logoColor=4EAA25" />
         <img src="https://img.shields.io/badge/Node.js-151516?style=flat-square&logo=node.js&logoColor=339933" />
         <img src="https://img.shields.io/badge/npm-151516?style=flat-square&logo=npm&logoColor=CB3837" />
+        <img src="https://img.shields.io/badge/Deno-151516?style=flat-square&logo=deno&logoColor=#000000" />
         <img src="https://img.shields.io/badge/Linux-151516?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/GNU-151516?style=flat-square&logo=gnu&logoColor=A42E2B" />
         <img src="https://img.shields.io/badge/Ubuntu-151516?style=flat-square&logo=ubuntu&logoColor=E95420" />
