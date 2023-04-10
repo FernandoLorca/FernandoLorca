@@ -18,19 +18,18 @@
 
 ```js
 const obj = {
-  passions: ["music", "web development"],
+  passions: ['music', 'web development'],
   interests: [
-    "HTML",
-    "CSS",
-    "Javascript",
-    ["React", "React router", "Context", "Hooks"],
-    "PostgreSQL",
-    "Node.js",
+    'HTML',
+    'CSS',
+    ['Javascript', 'React', 'React router', 'Context', 'Hooks'],
+    'PostgreSQL',
+    'Node.js',
   ],
   skills: [
-    "Strong html and css skills",
-    "Good react knowledge, but still learning",
-    "Starting to study PostgreSQL, filling myself with knowledge of everything that has to do with it.",
+    'Strong html and css skills',
+    'Good react knowledge, but still learning',
+    'Starting to study PostgreSQL, filling myself with knowledge of everything that has to do with it.',
   ],
 };
 ```
