@@ -17,7 +17,7 @@
 <br>
 
 ```js
-const obj = {
+const interestsAndSkills = {
   passions: ['music', 'web development'],
   interests: [
     'HTML',
