@@ -36,7 +36,7 @@ const interestsAndSkills = {
 
 <br>
 <div align="center">
-    <p>Favorite Songs</p>
+    <p>Favorite Song</p>
     <a href="https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213?si=fb2980299671434b">
         <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
