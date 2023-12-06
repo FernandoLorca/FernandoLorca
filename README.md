@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Fernando Lorca 🐱‍💻</h1>
+    <h1>Fernando Lorca: GoodGuyType </h1>
     <p>Full stack developer</p>
 </div>
 <br>
