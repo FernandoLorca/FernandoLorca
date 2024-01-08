@@ -31,6 +31,7 @@ const interestsAndSkills = {
   ],
   skills: [
     'Strong html and css skills',
+    'Acquiring solid knowledge in Javascript fundamentals',
     'Good react knowledge',
     'Studing typescript and design patterns',
   ],
