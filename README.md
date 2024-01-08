@@ -18,18 +18,21 @@
 
 ```js
 const interestsAndSkills = {
-  passions: ['music', 'web development'],
+  passions: ['web development', 'music', 'family', 'sports'],
   interests: [
     'HTML',
     'CSS',
-    ['Javascript', 'React', 'React router', 'Context', 'Hooks'],
+    'Javascript',
+    'Typescript',
     'PostgreSQL',
     'Node.js',
+    'Express',
+    'ORMs',
   ],
   skills: [
     'Strong html and css skills',
-    'Good react knowledge, but still learning',
-    'Starting to study PostgreSQL, filling myself with knowledge of everything that has to do with it.',
+    'Good react knowledge',
+    'Studing typescript and design patterns',
   ],
 };
 ```
@@ -48,17 +51,12 @@ const interestsAndSkills = {
         <img src="https://img.shields.io/badge/CSS-151516?style=flat-square&logo=css3&logoColor=1572B6" />
         <img src="https://img.shields.io/badge/vscode-151516?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
         <img src="https://img.shields.io/badge/Javascript-151516?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/Typescript-151516?style=flat-square&logo=typescript&logoColor=3178C6" />
         <img src="https://img.shields.io/badge/React-151516?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/ReactRouter-151516?style=flat-square&logo=reactrouter&logoColor=CA4245" />
-        <img src="https://img.shields.io/badge/Vite-151516?style=flat-square&logo=vite&logoColor=646CFF" />
         <img src="https://img.shields.io/badge/GNUBash-151516?style=flat-square&logo=GNUBash&logoColor=4EAA25" />
         <img src="https://img.shields.io/badge/Node.js-151516?style=flat-square&logo=node.js&logoColor=339933" />
         <img src="https://img.shields.io/badge/npm-151516?style=flat-square&logo=npm&logoColor=CB3837" />
-        <img src="https://img.shields.io/badge/Deno-151516?style=flat-square&logo=deno&logoColor=#000000" />
         <img src="https://img.shields.io/badge/Linux-151516?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/GNU-151516?style=flat-square&logo=gnu&logoColor=A42E2B" />
-        <img src="https://img.shields.io/badge/Ubuntu-151516?style=flat-square&logo=ubuntu&logoColor=E95420" />
         <img src="https://img.shields.io/badge/Codewars-151516?style=flat-square&logo=codewars&logoColor=B1361E" />
-        <img src="https://img.shields.io/badge/Discord-151516?style=flat-square&logo=discord&logoColor=5865F2" />
-        <img src="https://img.shields.io/badge/AdobeXD-151516?style=flat-square&logo=adobexd&logoColor=FF61F6" />
 </div>
