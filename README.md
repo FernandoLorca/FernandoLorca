@@ -37,14 +37,6 @@ const interestsAndSkills = {
   ],
 };
 ```
-
-<br>
-<div align="center">
-    <p>I'm The Mountain</p>
-    <a href="https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213?si=fb2980299671434b">
-        <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-    </a>
-</div>
 <br>
 <div align="center">
     <p>Other development interests:</p>
@@ -60,4 +52,11 @@ const interestsAndSkills = {
         <img src="https://img.shields.io/badge/Linux-151516?style=flat-square&logo=linux&logoColor=FCC624" />
         <img src="https://img.shields.io/badge/GNU-151516?style=flat-square&logo=gnu&logoColor=A42E2B" />
         <img src="https://img.shields.io/badge/Codewars-151516?style=flat-square&logo=codewars&logoColor=B1361E" />
+</div>
+<br>
+<div align="center">
+    <p>I'm The Mountain</p>
+    <a href="https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213?si=fb2980299671434b">
+        <img src="https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    </a>
 </div>
